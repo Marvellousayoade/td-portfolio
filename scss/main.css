@@ -2441,7 +2441,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 .brand-wrap .owl-carousel .owl-item img {
-  width: auto !important;
+  width: 110px !important;
 }
 .brand-wrap .single-brand {
   text-align: center;
